@@ -1,7 +1,9 @@
 # **使用方法**
 ### **阿里云盘：**
 在代码中填入对应的开放平台应用的APP ID和APP Secret，drive_id可空
+
 redirect_uri地址是：你的域名+文件名
+
 例如：https://yourdomain.com/alipan-callback.php
 
 ![image](/img/alipan.png)
@@ -18,7 +20,9 @@ json格式post请求
 ---
 ### **OneDrive：**
 在代码中填入对应的开放平台应用的客户端id和客户端密码
+
 redirect_uri地址是：你的域名+文件名
+
 例如：https://yourdomain.com/onedrive-callback.php
 
 ![image](/img/onedrive.png)
